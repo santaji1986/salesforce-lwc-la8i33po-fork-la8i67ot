@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/santaji1986.lwc-la8i33po-fork-la8i67ot",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve W6Th1MDEIstICj6JpdsV --open"
+  }
+}
